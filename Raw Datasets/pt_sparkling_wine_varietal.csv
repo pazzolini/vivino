@@ -1,0 +1,176 @@
+Winery,Year,Wine ID,Wine,Rating,num_review,price,Country,Region
+Encontro,2013,1851682,Special Cuvée 2013,0.0,10,32.95,Portugal,Bairrada
+Quinta do Ortigao,2017,2711085,Espumante Rosé 2017,0.0,3,5.7,Portugal,Bairrada
+Murganheira,2018,1287034,Malvasia Fina Bruto 2018,0.0,19,14.0,Portugal,Távora-Varosa
+Murganheira,2016,1691632,Extréme de Pinot Blanc Brut 2016,0.0,8,24.5,Portugal,Távora-Varosa
+Provam,2020,1839505,Castas de Monção Reserva Método Classico 2020,0.0,3,7.88,Portugal,Vinho Verde
+Caves Transmontanas,2012,1442114,Vértice Gouveio Bruto 2012,4.2,72,25.8,Portugal,Douro
+Giz,2019,7751153,Cuvée de Noirs 2019,0.0,19,29.9,Portugal,Bairrada
+Valados de Melgaço,2018,5678028,Reserva Alvarinho Extra Bruto 2018,3.8,62,12.0,Portugal,Monção e Melgaço
+Valados de Melgaço,2017,5678028,Reserva Alvarinho Extra Bruto 2017,4.1,60,25.0,Portugal,Monção e Melgaço
+Quinta da Atela,2019,6887793,Frisante Branco 2019,0.0,2,6.4,Portugal,Tejo
+Herdade do Rocim,2017,5774536,Brut Nature Rosé 2017,3.8,77,14.3,Portugal,Alentejano
+Cartuxa,2013,1829667,Évora Espumante Bruto 2013,3.8,227,26.5,Portugal,Évora
+Caves Transmontanas,2013,1268497,Vértice Millesimé 2013,4.1,130,25.5,Portugal,Douro
+Murganheira,2017,1712635,Reserva Bruto 2017,3.8,191,12.0,Portugal,Távora-Varosa
+Murganheira,2015,1261672,Super Reserva Bruto 2015,4.0,392,13.0,Portugal,Távora-Varosa
+Caves Transmontanas,2018,1671105,Vértice Rosé 2018,3.8,42,16.8,Portugal,Douro
+Vale do Rodo,N.V.,1962643,Cabeça de Burro Espumante Bruto N.V.,3.7,119,13.9,Portugal,Douro
+Cooperativa Agricola de Felgueiras,2021,9493724,Terras de Felgueiras Espumante de Vinho Verde Seco Dry Rosado Sparkling 2021,0.0,4,8.95,Portugal,Vinho Verde
+Quinta do Regueiro,2020,1458103,Alvarinho Bruto 2020,0.0,16,10.9,Portugal,Monção e Melgaço
+Colinas,2011,8720379,Cuvée Brut Reserve Rosé de Pinots 2011,0.0,5,39.9,Portugal,Bairrada
+Caves Transmontanas,2012,1268497,Vértice Millesimé 2012,3.9,116,24.0,Portugal,Douro
+Quinta das Bágeiras,2021,1577156,Bruto Natural Branco 2021,0.0,21,8.7,Portugal,Bairrada
+Aliança,2019,67674,Baga Bairrada Reserva Rosé Bruto 2019,0.0,14,8.0,Portugal,Bairrada
+Murganheira,2016,1261672,Super Reserva Bruto 2016,4.1,317,8.3,Portugal,Távora-Varosa
+São Domingos,2014,2375770,Tinto Bruto 2014,3.3,52,10.49,Portugal,Bairrada
+Obelisco,2017,1247934,Frisante Rosé 2017,0.0,3,5.25,Portugal,Tejo
+Murganheira,2008,2081951,Chardonnay Bruto 2008,3.9,39,26.95,Portugal,Távora-Varosa
+São Domingos,2014,2375770,Tinto Bruto 2014,3.3,52,10.49,Portugal,Bairrada
+São Domingos,2014,2407250,Baga Bruto 2014,0.0,8,17.49,Portugal,Bairrada
+Murganheira,2010,1304979,Millesimé Bruto 2010,0.0,1,15.49,Portugal,Beiras
+Murganheira,2013,2081951,Chardonnay Bruto 2013,3.9,26,11.3,Portugal,Távora-Varosa
+Campolargo,2014,2051824,Espumante Bruto Rosé 2014,3.9,28,17.5,Portugal,Bairrada
+Campolargo,2013,1571942,Borga Espumante Bruto 2013,3.9,46,19.9,Portugal,Bairrada
+Murganheira,2016,1973752,Vintage Bruto 2016,0.0,17,24.5,Portugal,Távora-Varosa
+Soalheiro,2017,7233299,Alvarinho Bruto Barrica 2017,4.1,100,16.56,Portugal,Vinho Verde
+Dona Berta,2017,2909172,Espumante Rabigato Reserva Bruto 2017,0.0,15,24.85,Portugal,Douro
+Quintas de Melgaço,2016,2476123,QM Super Reserva Alvarinho Bruto 2016,4.3,50,18.98,Portugal,Vinho Verde
+Murganheira,2015,1269429,Velha Reserva Bruto 2015,4.1,39,14.9,Portugal,Távora-Varosa
+Quinta dos Carvalhais,2007,76108,Dão Reserva Bruto Rosé 2007,3.9,27,20.95,Portugal,Dão
+Jose Carvalheira,2020,1691235,Hibernus Premier Brut 2020,4.2,48,29.95,Portugal,Bairrada
+Távora,2020,1315184,Terras do Demo Touriga Nacional 2020,3.8,131,8.29,Portugal,Távora-Varosa
+Murganheira,2015,3995029,Único Bruto 2015,4.2,31,17.95,Portugal,Távora-Varosa
+Távora,2021,1315184,Terras do Demo Touriga Nacional 2021,3.8,77,8.29,Portugal,Távora-Varosa
+Murganheira,2017,1269429,Velha Reserva Bruto 2017,0.0,19,15.33,Portugal,Távora-Varosa
+Encontro,2015,1851682,Special Cuvée 2015,0.0,2,29.9,Portugal,Bairrada
+Quinta do Ortigao,2020,1761354,Baga Bruto 2020,0.0,5,11.5,Portugal,Bairrada
+Casal Garcia,N.V.,1720924,Espumante de Vinho Verde Meio Seco N.V.,3.7,1364,5.0,Portugal,Vinho Verde
+Campolargo,2020,2051824,Espumante Bruto Rosé 2020,0.0,5,14.95,Portugal,Bairrada
+São Domingos,2019,1912983,Blanc de Blancs Bruto 2019,0.0,6,9.95,Portugal,Bairrada
+Cartuxa,2014,1575487,Évora Espumante Reserva Bruto 2014,4.0,28,43.2,Portugal,Évora
+Casal Garcia,N.V.,1720924,Espumante de Vinho Verde Meio Seco N.V.,3.7,1364,5.0,Portugal,Vinho Verde
+Távora,2020,2460308,Terras do Demo Reserva Bruto 2020,0.0,0,7.8,Portugal,Távora-Varosa
+Cartuxa,2014,1575487,Évora Espumante Reserva Bruto 2014,4.0,28,43.2,Portugal,Évora
+Aliança,2016,6910033,Grande Reserva Bruto 2016,0.0,11,20.95,Portugal,Bairrada
+Giroflé,N.V.,1986357,Espumante Bruto N.V.,3.7,198,10.7,Portugal,Douro
+Kompassus,2015,1465525,Espumante Rosé 2015,0.0,22,16.46,Portugal,Bairrada
+Cabriz,2017,3326712,Dão Método Classico Touriga Nacional Blanc de Noir 2017,0.0,0,7.24,Portugal,Dão
+Sexy,2018,3982917,Cuvée Explosion d'Amour Grande Reserva 2018,0.0,21,18.57,Portugal,Alentejo
+Quinta dos Abibes,2015,2223158,Sublime Brut Nature 2015,0.0,4,62.5,Portugal,Bairrada
+Soalheiro,N.V.,1941901,Bruto Rosé N.V.,3.9,499,12.89,Portugal,Monção e Melgaço
+São Domingos,2020,2694378,Rosé Bruto 2020,0.0,2,7.88,Portugal,Bairrada
+Caves Transmontanas,2014,1268497,Vértice Millesimé 2014,4.2,73,26.2,Portugal,Douro
+Caves Transmontanas,2013,1442114,Vértice Gouveio Bruto 2013,4.0,50,25.5,Portugal,Douro
+Herdade do Perdigão,2009,2668218,Branco Bruto 2009,0.0,1,17.0,Portugal,Alentejano
+Raposeira,2017,1815592,Super Reserva Bruto 2017,0.0,11,9.0,Portugal,Vinho de Portugal
+Murganheira,2013,1799980,Touriga Nacional Blanc de Noirs Bruto 2013,0.0,16,26.0,Portugal,Távora-Varosa
+Rama & Selas,2013,2563193,RS Rosé Bruto 2013,0.0,1,5.95,Portugal,Bairrada
+Rama & Selas,2014,2563193,RS Rosé Bruto 2014,0.0,2,4.95,Portugal,Bairrada
+Casa de Santar,2014,7083681,Vinha dos Amores Espumante de Touriga Nacional 2014,4.2,60,28.95,Portugal,Dão
+Familia Hehn,2019,3046614,Reserva Espumante Bruto 2019,0.0,6,12.95,Portugal,Távora-Varosa
+Caves Transmontanas,2019,1671105,Vértice Rosé 2019,3.7,73,15.9,Portugal,Douro
+Campolargo,2007,2051824,Espumante Bruto Rosé 2007,0.0,0,23.0,Portugal,Bairrada
+Quinta dos Abibes,2010,2223158,Sublime Brut Nature 2010,4.3,79,59.95,Portugal,Bairrada
+Quinta das Bágeiras,2018,1577156,Bruto Natural Branco 2018,3.8,112,9.99,Portugal,Bairrada
+Luis Pato,2018,7919114,Vinha Pan Espumoso 2018,4.1,31,19.19,Portugal,Bairrada
+João M Barbosa,2018,2220662,Ninfa Brut 2018,3.9,32,24.55,Portugal,Tejo
+Casa de Saima,2020,1362670,Baga Bruto 2020,0.0,8,12.24,Portugal,Bairrada
+Quinta de Santiago,2020,7892470,Alvarinho Bruto Reserva 2020,0.0,12,19.0,Portugal,Monção e Melgaço
+Quinta dos Carvalhais,2018,76108,Dão Reserva Bruto Rosé 2018,0.0,0,8.89,Portugal,Dão
+Ervideira,2021,3883900,Vinha d'Ervideira Bruto 2021,0.0,0,7.59,Portugal,Alentejo
+Regateiro,2015,3749798,Bruto 2015,3.7,45,13.8,Portugal,Bairrada
+Casa Santa Eufemia,2011,4191118,Espumante Bruto Super Reserva 2011,0.0,7,13.5,Portugal,Távora-Varosa
+Távora,2018,2460308,Terras do Demo Reserva Bruto 2018,0.0,6,7.5,Portugal,Távora-Varosa
+Raposeira,2017,1783658,Reserva Bruto 2017,3.5,90,7.0,Portugal,Douro
+Luis Pato,2022,1827451,Brut Blanc De Blancs 2022,0.0,1,8.18,Portugal,Bairrada
+Távora,2018,1315184,Terras do Demo Touriga Nacional 2018,3.9,362,8.5,Portugal,Távora-Varosa
+Quinta das Bágeiras,2019,1844715,Super Reserva Vinho Espumante 2019,4.1,65,12.2,Portugal,Bairrada
+Quinta da Romeira,2015,2047292,Bruto 2015,3.6,63,9.9,Portugal,Bucelas
+Caves Transmontanas,2012,2828802,Vértice Chardonnay 2012,0.0,7,124.6,Portugal,Douro
+Quinta da Atela,2020,6887793,Frisante Branco 2020,0.0,3,6.4,Portugal,Tejo
+Valados de Melgaço,2016,5678028,Reserva Alvarinho Extra Bruto 2016,0.0,18,12.0,Portugal,Monção e Melgaço
+Romana Vini,2019,7352726,Berbereta Reserva Brut Nature 2019,0.0,16,23.0,Portugal,Lisboa
+Aphros,2013,2039833,Pan Rosé 2013,3.8,92,16.21,Portugal,Vinho Verde
+Colinas de São Lourenço,2012,1244642,Reserva Espumante Brut 2012,0.0,1,16.35,Portugal,Bairrada
+Aliança,2012,6910033,Grande Reserva Bruto 2012,4.2,91,17.5,Portugal,Bairrada
+Regateiro,2017,3749798,Bruto 2017,3.8,48,12.0,Portugal,Bairrada
+Murganheira,2008,1282584,Rosé Bruto 2008,0.0,10,12.95,Portugal,Távora-Varosa
+Murganheira,2013,1235970,Czar Grand Cuvée Rosé Brut 2013,4.0,148,38.95,Portugal,Beiras
+Murganheira,2012,1304979,Millesimé Bruto 2012,0.0,1,11.95,Portugal,Beiras
+Encontro,2010,1851682,Special Cuvée 2010,4.0,68,26.95,Portugal,Bairrada
+Encontro,2010,1851682,Special Cuvée 2010,4.0,68,26.95,Portugal,Bairrada
+Caves Transmontanas,2015,1268497,Vértice Millesimé 2015,0.0,16,26.2,Portugal,Douro
+Campolargo,2013,78252,Espumante Bruto 2013,3.7,40,8.9,Portugal,Bairrada
+Kompassus,2019,2156928,Blanc de Noirs 2019,0.0,0,12.45,Portugal,Bairrada
+Dulcinea Santos Ferreira,N.V.,5861085,Sidónio de Sousa Branco Brut Nature N.V.,3.6,507,10.9,Portugal,Beiras
+Ribeiro Santo,2014,3183057,Blanc de Noirs Spumante 2014,0.0,5,18.93,Portugal,Dão
+Ervideira,2018,3883900,Vinha d'Ervideira Bruto 2018,3.9,56,9.13,Portugal,Alentejo
+Murganheira,2005,1685808,Cuvée Reserva Especial Bruto 2005,0.0,9,26.9,Portugal,Távora-Varosa
+Murganheira,2018,1261672,Super Reserva Bruto 2018,4.0,90,12.42,Portugal,Távora-Varosa
+Murganheira,2018,1712635,Reserva Bruto 2018,4.0,136,10.83,Portugal,Távora-Varosa
+Murganheira,2017,1685808,Cuvée Reserva Especial Bruto 2017,0.0,1,9.95,Portugal,Távora-Varosa
+Aphros,2006,2298468,Yakkos Grande Reserva 2006,3.4,57,16.5,Portugal,Vinho Verde
+Jose Carvalheira,2017,1933345,Hibernus Grande Cuvée Brut Nature 2017,4.4,78,30.75,Portugal,Bairrada
+Quinta das Bágeiras,2015,1577156,Bruto Natural Branco 2015,3.8,218,31.15,Portugal,Bairrada
+Raposeira,2014,1958397,Peerless Bruto 2014,3.8,69,8.5,Portugal,Távora-Varosa
+Aliança,2019,67704,Bairrada Reserva Bruto 2019,3.7,145,8.0,Portugal,Bairrada
+Messias,2019,2870778,Blanc De Blancs Grand Cuvée 2019,0.0,1,7.58,Portugal,Bairrada
+São João,2018,2971519,Reserva Bruto 2018,3.7,99,15.0,Portugal,Bairrada
+Murganheira,2015,2081951,Chardonnay Bruto 2015,4.0,26,22.71,Portugal,Távora-Varosa
+Murganheira,2019,1712635,Reserva Bruto 2019,3.7,40,11.29,Portugal,Távora-Varosa
+Murganheira,2016,3995029,Único Bruto 2016,4.1,30,22.71,Portugal,Távora-Varosa
+Raposeira,2015,1783658,Reserva Bruto 2015,3.5,274,11.35,Portugal,Douro
+Caves Transmontanas,2014,1442114,Vértice Gouveio Bruto 2014,4.1,28,36.95,Portugal,Douro
+Kompassus,2016,2156928,Blanc de Noirs 2016,0.0,5,16.45,Portugal,Bairrada
+Soalheiro,2017,1483527,Alvarinho Bruto 2017,4.0,290,19.9,Portugal,Monção e Melgaço
+Soalheiro,2017,1483527,Alvarinho Bruto 2017,4.0,290,19.9,Portugal,Monção e Melgaço
+São João,,1296046,Bruto ,3.6,450,5.89,Portugal,Beiras
+Casa de Saima,2016,1362670,Baga Bruto 2016,4.1,31,12.5,Portugal,Bairrada
+Cartuxa,2014,2323230,Évora Espumante Bruto Rosé 2014,3.9,119,22.5,Portugal,Évora
+Luis Pato,N.V.,2133824,Bruto Maria Gomes N.V.,3.6,871,8.35,Portugal,Beiras
+Aphros,2021,5360076,Phaunus Pet Nat 2021,4.0,460,22.0,Portugal,Vinho Verde
+Murganheira,2013,1973752,Vintage Bruto 2013,3.9,284,32.8,Portugal,Távora-Varosa
+Aphros,2021,7309272,Phaunus Pet Nat Rosé 2021,3.8,40,22.0,Portugal,Vinho Verde
+Murganheira,2017,1261672,Super Reserva Bruto 2017,4.1,314,12.9,Portugal,Távora-Varosa
+Marquês de Marialva,2017,1370711,Bical - Arinto Reserva Bruto 2017,4.2,158,11.3,Portugal,Bairrada
+Távora,2021,2646624,Fraga da Pena Bruto 2021,4.2,53,10.25,Portugal,Beiras
+Raposeira,2015,1815592,Super Reserva Bruto 2015,3.8,41,9.0,Portugal,Vinho de Portugal
+Távora,2021,2460308,Terras do Demo Reserva Bruto 2021,0.0,0,8.29,Portugal,Távora-Varosa
+Dulcinea Santos Ferreira,N.V.,5792864,Sidónio de Sousa Rosé Brut Nature N.V.,3.7,153,8.1,Portugal,Bairrada
+Dom Ponciano,2013,7410823,Grande Reserva Bruto Natural 2013,4.3,55,28.95,Portugal,Monção e Melgaço
+Raposeira,2016,1815592,Super Reserva Bruto 2016,0.0,4,9.0,Portugal,Vinho de Portugal
+Murganheira,2014,2081951,Chardonnay Bruto 2014,0.0,9,24.0,Portugal,Távora-Varosa
+Raposeira,2016,1958397,Peerless Bruto 2016,0.0,22,9.0,Portugal,Távora-Varosa
+Adega Mayor,2019,2230697,Monte Mayor Bruto 2019,0.0,24,16.0,Portugal,Alentejano
+Valados de Melgaço,2014,5678028,Reserva Alvarinho Extra Bruto 2014,0.0,2,13.0,Portugal,Monção e Melgaço
+Quinta do Ortigao,2019,2711085,Espumante Rosé 2019,0.0,2,12.89,Portugal,Bairrada
+Real Companhia Velha,2015,2398060,Espumante Bruto 2015,0.0,24,30.0,Portugal,Douro
+Real Companhia Velha,2017,2398060,Espumante Bruto 2017,0.0,15,28.0,Portugal,Douro
+Murganheira,2010,1799980,Touriga Nacional Blanc de Noirs Bruto 2010,4.3,66,25.49,Portugal,Távora-Varosa
+Casa de Saima,2018,1362670,Baga Bruto 2018,0.0,8,12.24,Portugal,Bairrada
+Quinta da Raza,2017,5756621,Bruto Natural 2017,0.0,15,12.1,Portugal,Vinho Verde
+Quinta da Atela,2021,6887793,Frisante Branco 2021,0.0,1,6.4,Portugal,Tejo
+Valados de Melgaço,2015,5678028,Reserva Alvarinho Extra Bruto 2015,3.9,40,12.0,Portugal,Monção e Melgaço
+Valados de Melgaço,2019,5678028,Reserva Alvarinho Extra Bruto 2019,4.1,79,12.0,Portugal,Monção e Melgaço
+Casa de Saima,2018,1362670,Baga Bruto 2018,0.0,8,12.24,Portugal,Bairrada
+Colinas,2015,7420578,Reserva Cuvée Brut Nature 2015,4.1,166,21.0,Portugal,Bairrada
+Caves Primavera,2020,2442448,Bruto 2020,0.0,2,12.95,Portugal,Bairrada
+Raposeira,2015,1900957,Bruto Rosé 2015,3.6,69,8.5,Portugal,Douro
+Raposeira,2011,1961805,Velha Reserva Bruto 2011,3.9,78,11.5,Portugal,Douro
+Campolargo,2015,78252,Espumante Bruto 2015,0.0,16,28.0,Portugal,Bairrada
+São Domingos,2017,2694378,Rosé Bruto 2017,0.0,17,11.95,Portugal,Bairrada
+Murganheira,2014,1304979,Millesimé Bruto 2014,0.0,1,12.95,Portugal,Beiras
+Kompassus,2012,1465525,Espumante Rosé 2012,0.0,5,16.49,Portugal,Bairrada
+Cartuxa,2007,1829667,Évora Espumante Bruto 2007,4.0,36,37.95,Portugal,Évora
+Kompassus,2015,6280613,Blanc Brut 2015,3.5,58,11.95,Portugal,Bairrada
+São Domingos,2012,1543646,Lopo de Freitas Bruto 2012,3.9,67,26.95,Portugal,Bairrada
+Messias,2011,2870778,Blanc De Blancs Grand Cuvée 2011,3.7,41,21.95,Portugal,Bairrada
+Quinta das Bágeiras,2020,1577156,Bruto Natural Branco 2020,3.9,120,8.7,Portugal,Bairrada
+Murganheira,2009,1799980,Touriga Nacional Blanc de Noirs Bruto 2009,4.3,57,21.49,Portugal,Távora-Varosa
+Cabeças do Reguengo,2012,5595405,Respiro Espumante 2012,0.0,6,31.0,Portugal,Beira Interior
+Campolargo,2016,2051824,Espumante Bruto Rosé 2016,0.0,4,32.75,Portugal,Bairrada
+Quinta do Valdoeiro,2015,1460537,Baga - Chardonnay Brut 2015,4.0,49,9.18,Portugal,Bairrada
+Aliança,2015,6910033,Grande Reserva Bruto 2015,4.0,56,17.85,Portugal,Bairrada
+Murganheira,2013,1304979,Millesimé Bruto 2013,0.0,5,8.99,Portugal,Beiras
+Kompassus,2020,2156928,Blanc de Noirs 2020,0.0,0,14.5,Portugal,Bairrada

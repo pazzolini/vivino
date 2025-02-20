@@ -1,0 +1,376 @@
+Winery,Year,Wine ID,Wine,Rating,num_review,price,Country,Region
+Couquinho,2015,1802836,Touriga Nacional Rosé 2015,0.0,9,12.0,Portugal,Tinto do Douro
+Marquês de Marialva,2019,6503737,Colheita Seleccionada Rosé Baga 2019,3.8,320,3.95,Portugal,Bairrada
+Esporão,2012,2141689,Assobio Douro Rosé 2012,3.5,44,7.6,Portugal,Douro
+Artefacto,2019,7070250,Rosé 2019,0.0,21,5.95,Portugal,Alentejano
+Julia Kemper,2014,5528684,Elpenor Rosé 2014,0.0,20,6.9,Portugal,Dão
+Paulo Laureano,2009,1655632,Premium Rosé 2009,0.0,7,7.95,Portugal,Alentejano
+Quinta do Quetzal,2021,5515753,Guadalupe Rosé 2021,0.0,4,5.95,Portugal,Alentejo
+Pormenor,2017,5643080,Rose 2017,0.0,9,13.95,Portugal,Duriense
+Quinta do Espinho,2018,5742128,Rosé 2018,0.0,17,7.95,Portugal,Douro
+Titular,2015,1940544,Rosé 2015,3.9,48,6.5,Portugal,Dão
+Quinta da Falorca,2011,2383046,Rosé 2011,0.0,6,9.95,Portugal,Dão
+Quinta de Santiago,2016,4505685,Rosé 2016,4.0,42,36.5,Portugal,Vinho Verde
+Quinta dos Avidagos,2021,5318035,Rosé 2021,0.0,16,4.8,Portugal,Douro
+D. Graça,2019,5550908,Rosé 2019,0.0,13,6.2,Portugal,Douro
+Casa da Passarella,2022,5516074,A Descoberta Rosado 2022,0.0,1,6.0,Portugal,Serra da Estrela
+Ma+Ru+Fa,2019,9085525,Alice Rosé 2019,0.0,13,6.666666666666667,Portugal,Tejo
+Valcatrina,2021,4864439,Rosé 2021,0.0,7,7.95,Portugal,Alentejano
+Alves de Sousa,2018,5261705,Vale da Raposa Rosé 2018,0.0,12,6.9,Portugal,Douro
+Esporão,2021,2141689,Assobio Douro Rosé 2021,3.6,34,6.49,Portugal,Douro
+Espera,2020,6765726,Touriga Nacional Rosé 2020,0.0,4,8.9,Portugal,Lisboa
+Villa Alvor,2020,7507207,Moscatel Galego - Roxo 2020,0.0,22,11.99,Portugal,Algarve
+Quinta do Monte d'Oiro,2017,6415313,Reserva Rosé 2017,0.0,8,24.95,Portugal,Lisboa
+Herdade do Portocarro,2018,2751887,Tears of Anima Rosé 2018,4.1,67,15.95,Portugal,Península de Setúbal
+Quinta Vale do Bragão,2020,5612930,Rosé 2020,3.4,53,8.45,Portugal,Douro
+Casa de Santa Vitoria,2019,1424865,Versátil Rosé 2019,3.4,56,3.95,Portugal,Alentejano
+Mingorra,2019,1621251,Terras d'Uva Rosé 2019,0.0,21,4.5,Portugal,Alentejano
+Casa de Cello,2021,3484140,Quinta da Vegia Rosé 2021,0.0,3,9.0,Portugal,Dão
+Quinta Maria Izabel,2017,3722798,Maria Izabel Rosé 2017,3.9,212,13.5,Portugal,Douro
+Quinta do Sobreiró de Cima,2021,3801781,Touriga Nacional Rosé 2021,0.0,2,5.3,Portugal,Trás-os-Montes
+Howard's Folly,2021,8627692,Sonhador Rosé 2021,0.0,10,12.5,Portugal,Alentejano
+Montes Ermos,2019,1736197,Touriga Nacional Rosé 2019,0.0,17,3.75,Portugal,Douro
+Quinta Casa Amarela,2018,1311521,Rosé 2018,3.7,35,8.42,Portugal,Douro
+Companhia das Lezírias,2019,5253842,Tyto Alba Rosé 2019,0.0,4,7.99,Portugal,Ribatejo
+Muxagat,2019,1309878,Douro Rosé 2019,0.0,18,9.25,Portugal,Douro
+Quinta da Boa Esperança,2020,5123361,Rosé 2020,4.0,61,8.9,Portugal,Lisboa
+Quinta Vale do Bragão,2020,5612930,Rosé 2020,3.4,53,8.45,Portugal,Douro
+Herdade do Portocarro,2018,2751887,Tears of Anima Rosé 2018,4.1,67,15.95,Portugal,Península de Setúbal
+Casal Sta. Maria,2021,6518311,Mar de Rosas 2021,0.0,15,22.5,Portugal,Lisboa
+Colinas de São Lourenço,2010,1314870,Principal Rosé Téte de Cuvée 2010,4.2,579,69.95,Portugal,Bairrada
+Casa de Santa Vitoria,2019,1424865,Versátil Rosé 2019,3.4,56,3.95,Portugal,Alentejano
+Mainova,2021,8554899,Moinante Rosé Castelão 2021,0.0,21,14.9,Portugal,Alentejo
+Herdade da Comporta,2020,1188482,Rosé 2020,0.0,15,8.19,Portugal,Península de Setúbal
+Montes Ermos,2022,1736197,Touriga Nacional Rosé 2022,0.0,1,3.75,Portugal,Douro
+Herdade do Peso,2020,4801931,Sossego Rosé 2020,3.7,129,4.95,Portugal,Alentejano
+Quinta Casa Amarela,2019,1311521,Rosé 2019,3.7,31,8.99,Portugal,Douro
+Kopke,2020,8328815,Winemaker's Collection Tinta Cão Rosé 2020,4.2,104,26.0,Portugal,Douro
+Casa de Mouraz,2021,4161962,Dão Rosé 2021,0.0,8,12.0,Portugal,Dão
+Titular,2019,1940544,Rosé 2019,3.8,112,7.9,Portugal,Dão
+Casa Ermelinda Freitas,2019,1199677,Terras Do Pó Rosé 2019,3.5,96,3.59,Portugal,Península de Setúbal
+Lavradores de Feitoria,2016,3836005,Cheda Rosé 2016,0.0,3,5.64,Portugal,Douro
+Quinta Casa Amarela,2018,1311521,Rosé 2018,3.7,35,8.42,Portugal,Douro
+Colinas de São Lourenço,2016,1314870,Principal Rosé Téte de Cuvée 2016,4.5,48,56.8,Portugal,Bairrada
+Quinta do Vallado,2019,2515323,Touriga Nacional Rosè 2019,3.8,161,7.46,Portugal,Douro
+Quinta de Santiago,2021,4505685,Rosé 2021,0.0,8,10.0,Portugal,Vinho Verde
+Vallegre,2020,5545225,Douro Colheita Rosé 2020,3.8,32,6.5,Portugal,Douro
+Quinta de Santiago,2019,4505685,Rosé 2019,0.0,22,9.6,Portugal,Vinho Verde
+Soito,2019,5014362,Rosé 2019,4.0,34,9.0,Portugal,Dão
+Quinta do Perdigão,2021,2237307,Rosé 2021,0.0,22,9.0,Portugal,Dão
+Casa da Passarella,2021,5516074,A Descoberta Rosado 2021,3.9,45,6.4,Portugal,Serra da Estrela
+Vinha Paz,2021,2193032,Rosé 2021,0.0,3,11.5,Portugal,Dão
+Ilha,2018,6656388,Tinta Negra Rosé 2018,0.0,5,20.99,Portugal,Madeirense
+Quinta do Monte d'Oiro,2018,6415313,Reserva Rosé 2018,0.0,3,19.9,Portugal,Lisboa
+Adega de Monção,2021,1397799,Vinho Verde Muralhas Rosé 2021,3.9,92,3.82,Portugal,Vinho Verde
+Malhadinha Nova,2022,1709173,Alentejano Monte da Peceguina Rosé 2022,0.0,2,11.92,Portugal,Alentejano
+Malhadinha Nova,2019,4993521,Malhadinha Rosé 2019,0.0,19,5.64,Portugal,Alentejo
+Casal Sta. Maria,2020,9669571,3000 Rosas 2020,0.0,22,14.95,Portugal,Lisboa
+Poças,2020,8564056,Rosé 2020,0.0,4,8.29,Portugal,Douro
+Colinas de São Lourenço,2019,1314870,Principal Rosé Téte de Cuvée 2019,0.0,7,56.8,Portugal,Bairrada
+CARM,2020,1151675,Vinha da Urze Rosé 2020,0.0,9,4.65,Portugal,Douro
+Real Companhia Velha,2021,7442399,Síbio Rosé 2021,0.0,23,14.89,Portugal,Douro
+Monte da Ravasqueira,2021,5815551,Clássico Rosé 2021,3.7,149,8.9636950736907,Portugal,Alentejano
+Monte Branco,2021,1587316,Alento Rosé 2021,3.8,29,6.99,Portugal,Alentejo
+Quinta do Portal,2021,1275081,Colheita Rosé 2021,0.0,4,8.95,Portugal,Douro
+Dona Maria,2020,1146629,Rosé 2020,3.9,70,8.9,Portugal,Alentejo
+Wine & Soul,2021,8380106,Manoella Rosé 2021,3.9,37,13.89,Portugal,Douro
+Monte da Ravasqueira,2021,5815551,Clássico Rosé 2021,3.7,149,8.9636950736907,Portugal,Alentejano
+Dona Maria,2018,1146629,Rosé 2018,3.7,104,22.95,Portugal,Alentejo
+Murganheira,2021,2584824,Rosé 2021,0.0,1,3.97,Portugal,Távora-Varosa
+Quinta do Portal,2021,6250172,Rosé 2021,0.0,17,7.47,Portugal,Douro
+Villa Alvor,2020,7283969,Rosé 2020,3.5,70,5.95,Portugal,Algarve
+Malaca,2021,2379916,Rosé 2021,0.0,3,6.5,Portugal,Algarve
+Herdade de Gâmbia,2021,4282918,Rosé 2021,0.0,15,5.5,Portugal,Península de Setúbal
+Quinta da Pellada,2022,4731275,Quinta de Saes Rosé 2022,0.0,4,8.5,Portugal,Dão
+Herdade de Gâmbia,2014,4282918,Rosé 2014,0.0,22,5.5,Portugal,Península de Setúbal
+José Maria da Fonseca,2021,9474628,João Pires Rosé 2021,3.8,269,3.95,Portugal,Península de Setúbal
+Herdade do Peso,2021,4801931,Sossego Rosé 2021,3.6,81,4.95,Portugal,Alentejano
+Cabriz,2020,1770323,Dão Rosé 2020,0.0,19,5.15,Portugal,Dão
+Quinta do Portal,2019,6250172,Rosé 2019,3.7,30,14.83591230855848,Portugal,Douro
+Casa de Santa Vitoria,2022,1424865,Versátil Rosé 2022,0.0,5,3.95,Portugal,Alentejano
+Quinta dos Avidagos,2017,7561613,Reserva Rosé 2017,3.8,30,12.95,Portugal,Douro
+Joao Portugal Ramos,2020,3352525,Pouca Roupa Rosè 2020,0.0,21,4.24,Portugal,Alentejano
+Altano,2021,10970310,Naturalmente Biológico Rosé 2021,3.8,71,7.2,Portugal,Douro
+Campolargo,2019,1802768,Entre II Santos Rosé 2019,0.0,9,5.95,Portugal,Bairrada
+Lua Cheia - Saven,2018,5394278,Em Vinhas Velhas Rosé 2018,3.8,74,6.5,Portugal,Douro
+Opta,2021,5558926,Rosé 2021,3.6,35,5.95,Portugal,Dão
+Quinta da Lapa,2021,6237977,Nana Rosé 2021,0.0,5,6.7,Portugal,Tejo
+Quinta do Paral,2020,7335948,Rosé 2020,0.0,7,7.5,Portugal,Alentejo
+Herdade da Maroteira,2020,4928040,Dez Tostões Rosé 2020,4.0,147,6.95,Portugal,Alentejano
+Valle Pradinhos,2022,1200515,Rosé 2022,0.0,9,7.6,Portugal,Trás-os-Montes
+Herdade do Sobroso,2022,6291426,Cellar Selection Syrah Rosé 2022,0.0,8,13.95,Portugal,Alentejo
+Quinta do Paral,2020,7335948,Rosé 2020,0.0,7,7.5,Portugal,Alentejo
+Seara d'Ordens,2019,8083349,Mater Rosé 2019,0.0,16,8.5,Portugal,Douro
+Casa do Joa,2020,6301937,Alto do Joa Rosé 2020,0.0,17,21.92,Portugal,Transmontano
+Cabriz,2020,5277662,Dão Colheita Seleccionada Rose 2020,3.7,174,4.5,Portugal,Dão
+Adega Mayor,2019,2533737,Caiado Rosé 2019,3.6,126,4.25,Portugal,Alentejano
+Companhia das Lezírias,2015,5253842,Tyto Alba Rosé 2015,0.0,1,6.54,Portugal,Ribatejo
+Quinta da Falorca,2014,2383046,Rosé 2014,0.0,5,8.64,Portugal,Dão
+Quanta Terra,2021,7605573,Phenomena Pinot Noir Rosé 2021,4.2,80,23.86,Portugal,Duriense
+Herdade do Portocarro,2020,2751887,Tears of Anima Rosé 2020,4.1,31,14.81,Portugal,Península de Setúbal
+Reynolds Wine Growers,2020,8347815,Carlos Reynolds Rosé 2020,3.8,34,7.73,Portugal,Alentejano
+Bacalhôa,2021,6398271,Roxo 2021,4.2,33,9.97,Portugal,Península de Setúbal
+Ribeiro Santo,2018,5708034,Pinha Rosé 2018,0.0,1,4.1,Portugal,Dão
+Campolargo,2015,1802768,Entre II Santos Rosé 2015,0.0,12,11.02,Portugal,Bairrada
+Quinta da Lapa,2019,5267325,Selection Rosé 2019,0.0,11,4.1,Portugal,Tejo
+Quinta da Biaia,2019,8932918,Rosé Mourisco 2019,3.8,34,9.48,Portugal,Beira Interior
+Quinta de Santiago,2020,4505685,Rosé 2020,0.0,3,12.34,Portugal,Vinho Verde
+Marquês de Marialva,2020,2452522,Rosé 2020,0.0,0,7.98,Portugal,Bairrada
+CARM,2019,1151641,Rosé 2019,3.9,46,7.94,Portugal,Tinto do Douro
+Torre de Palma,2021,7466616,Rosé 2021,0.0,14,19.01,Portugal,Alentejano
+Barranco Longo,2021,1240341,Rosé 2021,4.0,32,8.59,Portugal,Algarve
+Maçanita,2021,4985780,Touriga Nacional em Rosé 2021,4.0,182,7.8,Portugal,Douro
+Casa de Santar,2020,10327662,Rosé 2020,0.0,13,13.85,Portugal,Dão
+Quinta do Mouro,2018,7366247,Erro Z Rosé 2018,4.3,38,24.4,Portugal,Alentejano
+Quinta do Espinho,2021,5742128,Rosé 2021,0.0,10,6.28,Portugal,Douro
+Titan of Douro,2019,8554778,Reserva Rosé 2019,4.2,99,18.5,Portugal,Douro
+Quinta Nova de Nossa Senhora do Carmo,2021,5443364,Rosé 2021,4.0,92,11.61,Portugal,Douro
+Casa de Saima,2019,1377989,Rosé 2019,0.0,6,6.18,Portugal,Bairrada
+Salvador,2015,2828635,Portal da Calçada Rosé 2015,3.7,87,6.86,Portugal,Vinho Verde
+Casa do Joa,2019,6301937,Alto do Joa Rosé 2019,0.0,13,22.25,Portugal,Transmontano
+Covela,2015,2256836,Rosé 2015,3.7,206,7.38,Portugal,Minho
+Casal Sta. Maria,2019,6518311,Mar de Rosas 2019,4.2,180,20.0,Portugal,Lisboa
+Bacalhôa,2018,7464604,Touriga Franca Rosé 2018,3.8,67,10.28,Portugal,Península de Setúbal
+Herdade do Sobroso,2021,2497159,Rosé 2021,0.0,18,8.5,Portugal,Alentejo
+Quinta Dona Sancha,2019,9748287,Rosé 2019,0.0,0,11.87,Portugal,Dão
+Casa Ferreirinha,2019,2795324,Vinha Grande Douro Rosé 2019,3.5,74,8.7,Portugal,Douro
+Aneto,2019,3812789,Rosé 2019,0.0,19,9.05,Portugal,Douro
+Casa Ferreirinha,2016,2795324,Vinha Grande Douro Rosé 2016,3.3,70,10.5,Portugal,Douro
+Quinta da Sequeira,2021,1360460,Rosé 2021,0.0,12,13.9,Portugal,Douro
+Niepoort,2021,1166848,Redoma Rosé 2021,3.9,39,10.52,Portugal,Douro
+Mateus,N.V.,1253734,The Original Rosé N.V.,3.7,48107,2.39,Portugal,Douro
+Campolargo,2017,1802768,Entre II Santos Rosé 2017,0.0,1,12.45,Portugal,Bairrada
+Quinta do Monte d'Oiro,2017,1988268,Lybra Rosé 2017,0.0,24,21.95,Portugal,Lisboa
+Quinta da Laceira,2010,1360872,Rosé 2010,0.0,11,2.95,Portugal,Douro
+Paulo Laureano,2010,1655632,Premium Rosé 2010,0.0,8,7.95,Portugal,Alentejano
+Casa dos Fontes,2014,2369731,Rosé 2014,3.2,31,6.9,Portugal,Vinho Verde
+Titular,2015,4961683,Blush Edition Rosé 2015,0.0,15,17.9,Portugal,Dão
+Herdade de São Miguel,2019,3045598,Colheita Seleccionada Rosé 2019,3.8,51,4.95,Portugal,Alentejano
+Paço Dos Infantes,2021,8057400,Rosé 2021,0.0,8,14.5,Portugal,Alentejano
+Niepoort,2022,1166848,Redoma Rosé 2022,0.0,16,10.5,Portugal,Douro
+Quinta de Carapecos,2022,2494936,Espadeiro Rosé 2022,0.0,1,9.75,Portugal,Vinho Verde
+Sexy,2016,1267716,Rosé 2016,3.4,28,8.49,Portugal,Alentejo
+Dona Maria,2022,1146629,Rosé 2022,0.0,6,10.5,Portugal,Alentejo
+Rola,2019,4623548,Rosé 2019,4.0,91,10.5,Portugal,Douro
+Quinta do Monte d'Oiro,2021,6415313,Reserva Rosé 2021,0.0,2,19.89,Portugal,Lisboa
+Kopke,2019,8328815,Winemaker's Collection Tinta Cão Rosé 2019,4.2,80,33.9,Portugal,Douro
+Casa Ermelinda Freitas,2020,1199677,Terras Do Pó Rosé 2020,0.0,10,3.25,Portugal,Península de Setúbal
+Quinta dos Termos,2019,1914903,Termos Rosé 2019,3.9,57,5.81,Portugal,Beira Interior
+Villa Alvor,2018,7283969,Rosé 2018,3.3,50,5.95,Portugal,Algarve
+Herdade da Maroteira,2019,4928040,Dez Tostões Rosé 2019,3.7,66,6.0,Portugal,Alentejano
+Solar dos Lobos,2015,4523069,Rosé 2015,3.3,43,3.95,Portugal,Alentejo
+Casa Ermelinda Freitas,2022,1199677,Terras Do Pó Rosé 2022,0.0,0,3.25,Portugal,Península de Setúbal
+Altas Quintas,2020,1267873,Crescendo Rosé 2020,0.0,3,9.2,Portugal,Alentejano
+Távora,2021,3814053,O Malhadinhas Rosé 2021,0.0,0,2.75,Portugal,Beiras
+Casa Américo,2021,5329130,Rosé 2021,0.0,1,7.01,Portugal,Dão
+Herdade do Portocarro,2021,2751887,Tears of Anima Rosé 2021,0.0,23,14.52,Portugal,Península de Setúbal
+Colinas de São Lourenço,2009,1314870,Principal Rosé Téte de Cuvée 2009,4.1,135,41.0,Portugal,Bairrada
+Cartuxa,2017,3600107,EA Rosé 2017,3.6,174,5.95,Portugal,Alentejo
+Vila Nova de Tazem,2020,3691670,Sonante Rosé 2020,0.0,0,3.99,Portugal,Dão
+Monte da Casteleja,2021,1648849,Organic Rosé 2021,0.0,18,13.9,Portugal,Algarve
+Quinta de Chocapalha,2018,7638857,Reserva Rosé 2018,0.0,14,14.5,Portugal,Lisboa
+Bombeira do Guadiana,2018,1883754,Escolha Rosé 2018,0.0,0,21.12,Portugal,Alentejano
+Quinta de Cidrô,2017,9104,Rosé 2017,0.0,23,16.94,Portugal,Douro
+Cabriz,2013,1770323,Dão Rosé 2013,3.2,26,7.32,Portugal,Dão
+Nelson Neves,2022,4919166,Merlot Rosé 2022,0.0,2,8.75,Portugal,Bairrada
+Casa de Santa Vitoria,2021,1424865,Versátil Rosé 2021,0.0,19,3.95,Portugal,Alentejano
+Quinta da Pellada,2020,4731275,Quinta de Saes Rosé 2020,3.8,73,7.11,Portugal,Dão
+Casa de Santa Vitoria,2016,1148231,Rosé 2016,0.0,13,13.55,Portugal,Alentejano
+Quinta da Revolta,2012,1677626,Rosé 2012,0.0,0,5.8,Portugal,Douro
+Quinta de Cidrô,2017,9104,Rosé 2017,0.0,23,16.94,Portugal,Douro
+Cabriz,2013,1770323,Dão Rosé 2013,3.2,26,7.32,Portugal,Dão
+Quinta dos Termos,2021,1914903,Termos Rosé 2021,0.0,12,4.9,Portugal,Beira Interior
+Covela,2020,2256836,Rosé 2020,3.8,31,8.49,Portugal,Minho
+Comenda Grande,2021,3870248,Rosé 2021,0.0,5,7.19,Portugal,Alentejano
+Quinta da Devesa,2020,1923944,Rosé 2020,0.0,7,6.2,Portugal,Douro
+Pacheca,2019,3488217,Douro Colheita Rosé 2019,3.6,110,5.14,Portugal,Douro
+Aneto,2018,3812789,Rosé 2018,0.0,13,7.7,Portugal,Douro
+Quinta dos Avidagos,2019,5318035,Rosé 2019,0.0,12,6.15,Portugal,Douro
+Casa Santa Eulalia,2021,1397846,Plainas Rosé 2021,3.6,42,3.55,Portugal,Vinho Verde
+Quinta do Monte d'Oiro,2019,7371146,Rosé 2019,3.7,25,8.43,Portugal,Lisboa
+Vale do Armo,2019,1371141,Vila Jardim Rosé 2019,0.0,6,4.5,Portugal,Alentejo
+Quinta da Folgorosa,2020,8479835,Rosé 2020,0.0,9,7.0,Portugal,Lisboa
+Quinta da Falorca,2018,2383046,Rosé 2018,0.0,16,8.18,Portugal,Dão
+Quinta da Fonte Souto,2021,9782675,Rosé 2021,4.0,25,12.49,Portugal,Alentejo
+Quinta Vale d'Aldeia,2015,5811111,Rosé 2015,0.0,8,16.95,Portugal,Douro
+Mateus,2017,76045,Aragonês Emotions Rosé 2017,3.7,75,6.99,Portugal,Douro
+Soito,2018,5014362,Rosé 2018,0.0,9,8.5,Portugal,Dão
+Monte Branco,2019,1587316,Alento Rosé 2019,3.8,44,4.06,Portugal,Alentejo
+Howard's Folly,2020,8627692,Sonhador Rosé 2020,0.0,16,12.51,Portugal,Alentejano
+Quinta dos Ingleses,2020,2660672,Vinha dos Ingleses Espadeiro 2020,0.0,0,4.45,Portugal,Vinho Verde
+Aneto,2020,3812789,Rosé 2020,0.0,11,8.57,Portugal,Douro
+Lagoalva,2017,1472349,Rosé 2017,3.9,71,4.51,Portugal,Tejo
+Herdade Dos Pimenteis,2016,1301917,Tinta Cão Seco Rosé 2016,0.0,1,5.64,Portugal,Algarve
+Paxá,2021,5793190,Premium Rosé 2021,0.0,17,13.45,Portugal,Algarve
+Quinta de São Sebastião,2017,4373488,Mil Caminhos Rosé 2017,0.0,5,9.5,Portugal,Lisboa
+Lima Mayer,2021,1266488,Rosé 2021,3.8,29,10.5,Portugal,Alentejano
+Casa de Saima,2020,1377989,Rosé 2020,0.0,6,6.83,Portugal,Bairrada
+Cooperativa Agricola de Felgueiras,2014,2199291,Terras de Felgueiras Espadeiro Rosado 2014,3.9,62,24.98,Portugal,Vinho Verde
+Quinta dos Avidagos,2020,5318035,Rosé 2020,0.0,22,5.5,Portugal,Douro
+MDS (Monte de Salicos),2021,4754966,Rosé 2021,0.0,12,5.42,Portugal,Algarve
+Quinta da Sequeira,2020,1360460,Rosé 2020,4.0,27,9.0,Portugal,Douro
+Aveleda,2021,8057343,Fonte Vinho Verde Rosé 2021,3.7,80,4.49,Portugal,Vinho Verde
+Barranco Longo,2022,1240341,Rosé 2022,0.0,3,10.5,Portugal,Algarve
+Casal da Coelheira,2019,1254629,Rosé 2019,0.0,3,5.5,Portugal,Tejo
+Reynolds Wine Growers,2021,8347815,Carlos Reynolds Rosé 2021,0.0,14,8.4,Portugal,Alentejano
+Bombeira do Guadiana,2019,1883754,Escolha Rosé 2019,0.0,0,13.69,Portugal,Alentejano
+Herdade Dos Pimenteis,2018,1301917,Tinta Cão Seco Rosé 2018,0.0,0,5.64,Portugal,Algarve
+Niepoort,2019,1166848,Redoma Rosé 2019,4.0,126,9.9,Portugal,Douro
+Niepoort,2018,1166848,Redoma Rosé 2018,3.9,105,11.0,Portugal,Douro
+Agri-Roncão,2015,1420246,Quinta de Linhares Rosé 2015,0.0,12,4.74,Portugal,Vinho Verde
+Herdade do Cebolal,2016,2976423,Rosé 2016,0.0,7,9.85,Portugal,Península de Setúbal
+Quinta da Pellada,2018,4731275,Quinta de Saes Rosé 2018,3.9,47,5.9,Portugal,Dão
+Bojador,2020,5307240,Alentejano Rosé 2020,0.0,24,7.4,Portugal,Alentejano
+Barranco Longo,2021,2479569,Oaked Rosé 2021,0.0,0,9.31,Portugal,Algarve
+Quinta Vale do Bragão,2016,5612930,Rosé 2016,0.0,7,8.81,Portugal,Douro
+Quinta de Ventozelo,2019,5298578,Rosé de Ventozelo 2019,4.0,134,9.84,Portugal,Douro
+Barranco Longo,2018,1240341,Rosé 2018,3.7,73,8.5,Portugal,Algarve
+Quinta do Pinto,2018,1900707,Vinhas do Lasso Colheita Seleccionada Rosé 2018,0.0,7,7.05,Portugal,Alenquer
+Soalheiro,2021,6404593,Alvarinho - Pinot Noir Rosé 2021,4.1,200,11.01,Portugal,Monção e Melgaço
+Vinha Paz,2019,2193032,Rosé 2019,0.0,0,10.82,Portugal,Dão
+Covela,2017,2256836,Rosé 2017,3.6,255,8.76,Portugal,Minho
+Quinta Maria Izabel,2018,3722798,Maria Izabel Rosé 2018,4.3,29,12.12,Portugal,Douro
+Quinta Casa Amarela,2021,1311521,Rosé 2021,3.9,33,8.25,Portugal,Douro
+Quinta do Perdigão,2018,2237307,Rosé 2018,3.9,48,9.95,Portugal,Dão
+Quinta de Sant'Ana,2019,1781321,Rosé 2019,0.0,10,6.84,Portugal,Lisboa
+Herdade da Maroteira,2021,4928040,Dez Tostões Rosé 2021,4.0,86,7.88,Portugal,Alentejano
+Monte da Ravasqueira,2012,1598254,Premium Rosé 2012,4.2,43,47.45,Portugal,Alentejo
+Ervideira,2018,2450782,Vinha d'Ervideira Colheita Seleccionada Rosé 2018,3.8,50,8.11,Portugal,Alentejo
+Quinta do Vallado,2020,2515323,Touriga Nacional Rosè 2020,3.7,70,7.29,Portugal,Douro
+Arrepiado Velho,2020,1984070,Rosé 2020,0.0,21,7.46,Portugal,Alentejo
+Herdade do Rocim,2019,4588455,Mariana Rosé 2019,3.7,46,7.93,Portugal,Alentejano
+Dona Maria,2021,1146629,Rosé 2021,4.0,74,8.21,Portugal,Alentejo
+Castello d'Alba,2019,2618231,Douro Touriga Nacional Rosé 2019,4.0,53,6.91,Portugal,Douro
+Monte da Ravasqueira,2013,1674723,Touriga Nacional 2013,3.8,36,16.13,Portugal,Alentejano
+Manz,2020,1851492,Rosé 2020,0.0,19,6.8,Portugal,Lisboa
+Casa de Mouraz,2018,4161962,Dão Rosé 2018,3.5,87,8.81,Portugal,Dão
+Quinta das Camelias,2019,1893463,Rosé 2019,0.0,24,5.14,Portugal,Dão
+Cabriz,2021,1770323,Dão Rosé 2021,0.0,1,4.5,Portugal,Dão
+Quinta Nova de Nossa Senhora do Carmo,2022,5443364,Rosé 2022,0.0,13,13.45,Portugal,Douro
+Casal Garcia,N.V.,1160233,Vinho Rosé N.V.,3.7,15566,4.39,Portugal,Vinho de Portugal
+Quinta do Vallado,2021,2515323,Touriga Nacional Rosè 2021,3.8,81,8.24,Portugal,Douro
+Esporão,2021,9437315,Monte Velho Rosé 2021,3.6,91,3.95,Portugal,Alentejano
+Manz,2018,1851492,Rosé 2018,3.7,50,7.5,Portugal,Lisboa
+Casa Ferreirinha,2017,2795324,Vinha Grande Douro Rosé 2017,3.7,69,10.95,Portugal,Douro
+Herdade do Freixo,2021,6815033,Terroir Rosé 2021,0.0,3,9.95,Portugal,Alentejano
+Quinta do Portal,2016,3658767,Muros de Vinha Rosé 2016,3.5,55,3.95,Portugal,Douro
+Monte da Ravasqueira,2015,1598254,Premium Rosé 2015,4.1,125,25.95,Portugal,Alentejo
+Colinas,2019,2180675,Bairrada Rosé 2019,4.0,35,18.95,Portugal,Bairrada
+Torre de Palma,2018,7466616,Rosé 2018,0.0,6,16.95,Portugal,Alentejano
+Quinta da Sequeira,2008,1360460,Rosé 2008,0.0,0,7.95,Portugal,Douro
+Herdade da Rocha,2015,4437539,Couto Saramago Rosé 2015,0.0,22,7.95,Portugal,Alentejo
+Churchill's,2011,2560870,Estates Douro Rosé 2011,0.0,0,9.95,Portugal,Cima Corgo
+Pacheca,2021,5744172,Reserva Rosé 2021,0.0,5,22.0,Portugal,Douro
+Ma+Ru+Fa,2014,6507828,Rosé 2014,0.0,7,5.833333333333333,Portugal,Tejo
+Herdade do Sobroso,2019,2497159,Rosé 2019,0.0,19,6.8,Portugal,Alentejo
+Murganheira,2014,2584824,Rosé 2014,0.0,3,13.49,Portugal,Távora-Varosa
+Alves de Sousa,2021,5261705,Vale da Raposa Rosé 2021,0.0,2,6.99,Portugal,Douro
+Porta 6,2022,6328291,Rosé 2022,0.0,4,4.99,Portugal,Portalegre
+Covela,2021,2256836,Rosé 2021,0.0,9,8.49,Portugal,Minho
+Monte Cruz,2012,1648209,Rosé 2012,0.0,5,9.95,Portugal,Alentejano
+Vila Nova de Tazem,2021,3691670,Sonante Rosé 2021,0.0,0,3.99,Portugal,Dão
+Adega 23,2020,6592416,Rosé 2020,0.0,12,12.3,Portugal,Douro
+Terras de Mogadouro,2019,6061186,Rosé 2019,0.0,3,7.49,Portugal,Transmontano
+Távora,2018,3814053,O Malhadinhas Rosé 2018,0.0,12,2.75,Portugal,Beiras
+Távora,2020,3814053,O Malhadinhas Rosé 2020,0.0,9,2.75,Portugal,Beiras
+Herdade Dos Pimenteis,2019,1301917,Tinta Cão Seco Rosé 2019,0.0,0,5.75,Portugal,Algarve
+Quinta do Romeu,2021,1786286,Rosé Seco 2021,0.0,2,12.5,Portugal,Douro
+Reynolds Wine Growers,2018,8347815,Carlos Reynolds Rosé 2018,0.0,18,7.5,Portugal,Alentejano
+Quinta do Portal,2008,1275081,Colheita Rosé 2008,0.0,11,7.9,Portugal,Douro
+Quinta Vale d'Aldeia,2017,5811111,Rosé 2017,3.9,26,8.45,Portugal,Douro
+Cortes do Tua,2018,5221088,Soulmate Rosé 2018,0.0,13,13.0,Portugal,Douro
+Montalto,2021,2306218,Vinha da Malhada Rosé 2021,0.0,1,5.9,Portugal,Lisboa
+Quinta das Camelias,2020,1893463,Rosé 2020,0.0,16,6.2,Portugal,Dão
+Távora,2020,3814053,O Malhadinhas Rosé 2020,0.0,9,2.75,Portugal,Beiras
+Quinta do Monte d'Oiro,2016,6415313,Reserva Rosé 2016,0.0,4,18.9,Portugal,Lisboa
+Távora,2018,3814053,O Malhadinhas Rosé 2018,0.0,12,2.75,Portugal,Beiras
+Monte Cruz,2012,1648209,Rosé 2012,0.0,5,9.95,Portugal,Alentejano
+Adega Cooperativa de Borba,2015,3023522,Alentejo Premium Rosé 2015,0.0,10,5.07,Portugal,Alentejo
+Terras de Mogadouro,2019,6061186,Rosé 2019,0.0,3,7.49,Portugal,Transmontano
+Herdade da Comporta,2021,1188482,Rosé 2021,0.0,9,9.15,Portugal,Península de Setúbal
+Adega 23,2020,6592416,Rosé 2020,0.0,12,12.3,Portugal,Douro
+Vila Nova de Tazem,2021,3691670,Sonante Rosé 2021,0.0,0,3.99,Portugal,Dão
+Herdade Dos Pimenteis,2019,1301917,Tinta Cão Seco Rosé 2019,0.0,0,5.75,Portugal,Algarve
+Reynolds Wine Growers,2017,5893211,Rosé 2017,0.0,13,7.8,Portugal,Alentejano
+Varzea do Marão,2022,9626867,Rosé 2022,0.0,1,7.95,Portugal,Vinho Verde
+Quinta do Regueiro,2020,9657041,Rosé 2020,0.0,14,9.5,Portugal,Monção e Melgaço
+Pegos Claros,2020,4740582,Rosé 2020,0.0,14,10.9,Portugal,Palmela
+Nunes Barata,2017,5581267,Rosé 2017,3.7,59,10.95,Portugal,Alentejo
+Quinta da Boa Esperança,2021,5123361,Rosé 2021,4.1,174,10.95,Portugal,Lisboa
+Azores Wine Company,2020,3537845,Vulcânico Rosé 2020,3.9,140,12.5,Portugal,Açores
+Águia Moura,2021,5351417,Rosé 2021,0.0,0,5.0,Portugal,Douro
+Quinta Nova de Nossa Senhora do Carmo,2018,4637122,Rosé Reserva 2018,4.1,56,20.0,Portugal,Douro
+Mateus,1975,76045,Aragonês Emotions Rosé 1975,0.0,0,4.11,Portugal,Douro
+Atlantis,2019,1784994,Rosé 2019,0.0,9,8.59,Portugal,Madeirense
+Porta 6,2017,6328291,Rosé 2017,3.7,80,3.99,Portugal,Portalegre
+Herdade de Gâmbia,2019,4282918,Rosé 2019,3.8,29,5.64,Portugal,Península de Setúbal
+Niepoort,2020,1166848,Redoma Rosé 2020,4.1,89,11.81,Portugal,Douro
+Outeiros Altos,2016,5515794,Rosado 2016,0.0,10,10.69,Portugal,Alentejo
+Lemos,2016,7020595,Nélita Rosé 2016,4.2,35,33.0,Portugal,Dão
+Caminhos Cruzados,2020,9914017,Rosé 2020,0.0,19,9.2,Portugal,Dão
+Herdade da Calada,2021,7198474,Baron de B. Syrah Reserva Rosé 2021,0.0,0,19.1,Portugal,Alentejano
+Campolargo,2016,1802768,Entre II Santos Rosé 2016,0.0,7,6.45,Portugal,Bairrada
+CARM,2021,1151641,Rosé 2021,0.0,23,7.89,Portugal,Tinto do Douro
+Adega de Monção,2020,1397799,Vinho Verde Muralhas Rosé 2020,3.9,620,4.0,Portugal,Vinho Verde
+Quinta do Monte d'Oiro,2021,7371146,Rosé 2021,0.0,17,9.89,Portugal,Lisboa
+Malhadinha Nova,2016,4993521,Malhadinha Rosé 2016,0.0,0,2.75,Portugal,Alentejo
+Malhadinha Nova,2019,1709173,Alentejano Monte da Peceguina Rosé 2019,3.9,32,11.7,Portugal,Alentejano
+Quinta do Pôpa,2019,5722676,Rosé 2019,4.1,47,11.0,Portugal,Douro
+Quinta da Alorna,2020,1575420,Touriga Nacional Rosé 2020,3.6,34,6.49,Portugal,Ribatejo
+Quinta de Cidrô,2016,9104,Rosé 2016,3.5,47,11.15,Portugal,Douro
+Quinta do Crasto,2020,5837199,Crasto Rosé 2020,3.7,26,10.7,Portugal,Douro
+Herdade do Rocim,2019,6603863,Rosé 2019,3.7,52,7.95,Portugal,Alentejano
+Vila Nova de Tazem,2013,3691670,Sonante Rosé 2013,0.0,0,7.95,Portugal,Dão
+Monte da Ravasqueira,2019,1674723,Touriga Nacional 2019,0.0,21,21.12870981655665,Portugal,Alentejano
+Giz,2020,10269670,Vinhas Velhas Rosé 2020,0.0,18,25.9,Portugal,Bairrada
+Herdade da Maroteira,2022,4928040,Dez Tostões Rosé 2022,0.0,1,8.5,Portugal,Alentejano
+Portugal Boutique Winery,2018,7444832,Boina Rosé 2018,3.3,25,9.5,Portugal,Douro
+Adega 23,2018,6592416,Rosé 2018,3.7,25,12.5,Portugal,Douro
+Paxá,2021,5585392,Rosé 2021,0.0,4,8.64,Portugal,Algarve
+Ribafreixo Wines,2019,4188294,Pato Frio Rosé Cashmere 2019,3.9,38,8.61,Portugal,Alentejano
+Adega de Pegões,2017,4870022,Península de Setúbal Rosé 2017,3.5,118,2.29,Portugal,Península de Setúbal
+Alves de Sousa,2019,5261705,Vale da Raposa Rosé 2019,0.0,12,6.84,Portugal,Douro
+Quinta do Vallado,2018,2515323,Touriga Nacional Rosè 2018,3.7,127,7.38,Portugal,Douro
+José Maria da Fonseca,2019,1491290,Domingos Soares Franco Colecção Privada Moscatel Roxo Rosé 2019,4.2,222,11.63,Portugal,Península de Setúbal
+Casa Américo,2020,5329130,Rosé 2020,0.0,7,6.92,Portugal,Dão
+Aveleda,2020,8057343,Fonte Vinho Verde Rosé 2020,3.3,38,3.75,Portugal,Vinho Verde
+Herdade do Rocim,2021,6603863,Rosé 2021,0.0,15,8.15,Portugal,Alentejano
+Quinta da Revolta,2015,1677626,Rosé 2015,0.0,8,5.95,Portugal,Douro
+Esporão,2019,2141689,Assobio Douro Rosé 2019,3.5,69,5.49,Portugal,Douro
+Zé da Leonor,2020,5573899,Rosé 2020,0.0,1,7.0,Portugal,Tejo
+Valle Pradinhos,2020,1200515,Rosé 2020,3.8,94,7.5,Portugal,Trás-os-Montes
+Esporão,2020,9437315,Monte Velho Rosé 2020,3.5,146,3.95,Portugal,Alentejano
+Herdade das Servas,2021,8404724,Sangiovese 2021,0.0,12,11.5,Portugal,Alentejano
+Mapa,2016,5456671,Flore de Mapa Rosé 2016,0.0,8,11.5,Portugal,Douro
+Herdade Dos Pimenteis,2021,1301917,Tinta Cão Seco Rosé 2021,0.0,0,5.75,Portugal,Algarve
+Herdade da Comporta,2020,6639750,Touriga Nacional Private Selection Rosé 2020,3.9,26,12.95,Portugal,Península de Setúbal
+Herdade de Gâmbia,2022,4282918,Rosé 2022,0.0,0,5.5,Portugal,Península de Setúbal
+Casal Sta. Maria,2020,6518311,Mar de Rosas 2020,4.2,105,19.95,Portugal,Lisboa
+Agri-Roncão,2021,1420246,Quinta de Linhares Rosé 2021,0.0,3,5.65,Portugal,Vinho Verde
+Quinta da Revolta,2011,1677626,Rosé 2011,0.0,14,4.24,Portugal,Douro
+Casa Ermelinda Freitas,2021,1199677,Terras Do Pó Rosé 2021,3.5,32,3.25,Portugal,Península de Setúbal
+Quinta Nova de Nossa Senhora do Carmo,2020,5443364,Rosé 2020,4.1,84,14.99,Portugal,Douro
+Casa Ferreirinha,2015,2795324,Vinha Grande Douro Rosé 2015,3.6,60,8.5,Portugal,Douro
+Quinta do Côtto,2021,10199332,Rosé 2021,0.0,18,7.89,Portugal,Douro
+Malhadinha Nova,2021,4993521,Malhadinha Rosé 2021,0.0,19,30.0,Portugal,Alentejo
+Soalheiro,2020,6404593,Alvarinho - Pinot Noir Rosé 2020,4.0,260,28.95,Portugal,Monção e Melgaço
+Azores Wine Company,2019,3537845,Vulcânico Rosé 2019,3.9,499,10.7,Portugal,Açores
+Monte da Ravasqueira,2021,1626503,Rosé 2021,0.0,4,6.28,Portugal,Alentejano
+Todao,2017,7045422,Rosé 2017,0.0,9,12.93,Portugal,Douro
+Cabriz,2018,1770323,Dão Rosé 2018,0.0,3,6.48,Portugal,Dão
+Aliança,N.V.,67734,Casal Mendes Rosé N.V.,3.6,10337,2.95,Portugal,Beiras
+Quinta dos Carvalhais,2021,6244465,Colheita Rosé 2021,3.9,55,8.99,Portugal,Dão
+Valle Pradinhos,2021,1200515,Rosé 2021,4.0,84,6.87,Portugal,Trás-os-Montes
+Vinha Paz,2017,2193032,Rosé 2017,0.0,6,10.2,Portugal,Dão
+Couquinho,2018,1802836,Touriga Nacional Rosé 2018,0.0,11,6.61,Portugal,Tinto do Douro
+Torre de Palma,2019,7466616,Rosé 2019,0.0,14,17.88,Portugal,Alentejano
+Quinta de La Rosa,2021,5485924,Rosé 2021,0.0,12,8.65,Portugal,Douro
+Quinta de Gomariz,2019,1723913,Padeiro 2019,0.0,24,5.3,Portugal,Vinho Verde
+Pegos Claros,2018,4740582,Rosé 2018,3.7,25,6.15,Portugal,Palmela
+Cabrita,2020,1627540,Rosé 2020,0.0,13,7.61,Portugal,Algarve
+José Maria da Fonseca,2016,1491290,Domingos Soares Franco Colecção Privada Moscatel Roxo Rosé 2016,3.9,111,11.63,Portugal,Península de Setúbal
+Adega 23,2017,6592416,Rosé 2017,3.5,36,10.28,Portugal,Douro
+Malhadinha Nova,2021,1709173,Alentejano Monte da Peceguina Rosé 2021,3.9,40,10.8,Portugal,Alentejano
+Covela,2018,2256836,Rosé 2018,3.9,126,21.95,Portugal,Minho
+Casa Américo,2018,5329130,Rosé 2018,0.0,10,6.87,Portugal,Dão
+Teixeiró,2014,1193621,Rosé 2014,0.0,16,6.18,Portugal,Vinho Verde
