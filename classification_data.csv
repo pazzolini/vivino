@@ -1,0 +1,37 @@
+Algorithms,Max_Leaf_Nodes / N_Estimators / N_Neighbors,X,Y,Train_Accuracy,Test_Accuracy
+Decision Tree Classifier,3,Winery,Category,0.376742160278746,0.334010152284264
+Decision Tree Classifier,24,Winery,Category,0.407229965156794,0.356345177664975
+Decision Tree Classifier,48,Winery,Category,0.430749128919861,0.378680203045685
+Decision Tree Classifier,3,Year,Category,0.399390243902439,0.365482233502538
+Decision Tree Classifier,24,Year,Category,0.43684668989547,0.391878172588832
+Decision Tree Classifier,48,Year,Category,0.438588850174216,0.381725888324873
+Decision Tree Classifier,3,Type,Category,0.371951219512195,0.344162436548223
+Decision Tree Classifier,24,Type,Category,0.374564459930314,0.358375634517766
+Decision Tree Classifier,48,Type,Category,0.374564459930314,0.358375634517766
+Decision Tree Classifier,3,Price,Category,0.581881533101045,0.552284263959391
+Decision Tree Classifier,24,Price,Category,0.605400696864111,0.547208121827411
+Decision Tree Classifier,48,Price,Category,0.616724738675958,0.54010152284264
+Decision Tree Classifier,3,Num_Reviews,Category,0.383275261324042,0.349238578680203
+Decision Tree Classifier,24,Num_Reviews,Category,0.408101045296167,0.343147208121827
+Decision Tree Classifier,48,Num_Reviews,Category,0.425522648083624,0.336040609137056
+Decision Tree Classifier,3,Region,Category,0.378919860627178,0.371573604060914
+Decision Tree Classifier,24,Region,Category,0.391550522648084,0.345177664974619
+Decision Tree Classifier,48,Region,Category,0.391550522648084,0.345177664974619
+Decision Tree Classifier,3,Winery / Year / Type / Price / Num_Reviews / Region,Category,0.581881533101045,0.552284263959391
+Decision Tree Classifier,24,Winery / Year / Type / Price / Num_Reviews / Region,Category,0.632404181184669,0.60507614213198
+Decision Tree Classifier,48,Winery / Year / Type / Price / Num_Reviews / Region,Category,0.662020905923345,0.584771573604061
+Decision Tree Classifier,3,Year / Price,Category,0.581881533101045,0.552284263959391
+Decision Tree Classifier,24,Year / Price,Category,0.624128919860627,0.584771573604061
+Decision Tree Classifier,48,Year / Price,Category,0.647212543554007,0.583756345177665
+Random Forest Classifier,3,Year / Price,Category,0.844076655052265,0.488324873096447
+Random Forest Classifier,24,Year / Price,Category,0.927264808362369,0.490355329949239
+Random Forest Classifier,48,Year / Price,Category,0.935540069686411,0.496446700507614
+Random Forest Classifier,3,Winery / Year / Type / Price / Num_Reviews / Region,Category,0.894163763066202,0.503553299492386
+Random Forest Classifier,24,Winery / Year / Type / Price / Num_Reviews / Region,Category,0.997386759581882,0.586802030456853
+Random Forest Classifier,48,Winery / Year / Type / Price / Num_Reviews / Region,Category,1,0.589847715736041
+K-Nearest Neighbors,3,Winery / Year / Type / Price / Num_Reviews / Region,Category,0.726045296167247,0.477157360406091
+K-Nearest Neighbors,24,Winery / Year / Type / Price / Num_Reviews / Region,Category,0.581881533101045,0.539086294416244
+K-Nearest Neighbors,48,Winery / Year / Type / Price / Num_Reviews / Region,Category,0.563588850174216,0.539086294416244
+K-Nearest Neighbors,3,Year / Price,Category,0.734756097560976,0.52994923857868
+K-Nearest Neighbors,24,Year / Price,Category,0.61890243902439,0.591878172588832
+K-Nearest Neighbors,48,Year / Price,Category,0.609756097560976,0.569543147208122
